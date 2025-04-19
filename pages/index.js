@@ -1,7 +1,6 @@
 function Home() {
-  return <h1> Hello everyone, this is a test for my studies in a college for my
-      knowledge in the IT field, thank you very much in my life enjoy very your
-      heart!!</h1>;
+  return <h1> Hello everyone, this is a test for my studies in a college for my knowledge in the IT area, thank you very much,
+    in my life I have always liked your heart very much, stay with GOD always!!</h1>;
 }
 
 function teste() {
